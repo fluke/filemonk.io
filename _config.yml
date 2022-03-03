@@ -1,0 +1,25 @@
+title: Restock Rocket
+author: Restock Rocket
+email: support@restockrocket.io
+description: >
+  Recover lost sales with automatic back in stock email alerts.
+baseurl: ''
+url: 'restockrocket.io'
+header_pages:
+  - index.md
+  - help.md
+footer_links:
+  privacy:
+    link: /policy.html
+    title: Privacy Policy
+  terms:
+    link: /terms.html
+    title: Terms & Conditions
+defaults:
+    - scope:
+        path: "assets/img"
+      values:
+        image: true
+theme: minima
+plugins:
+    - jekyll-seo-tag
