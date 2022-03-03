@@ -1,10 +1,10 @@
-title: Restock Rocket
-author: Restock Rocket
-email: support@restockrocket.io
+title: Filemonk
+author: Filemonk
+email: support@filemonk.io
 description: >
   Recover lost sales with automatic back in stock email alerts.
 baseurl: ''
-url: 'restockrocket.io'
+url: 'filemonk.io'
 header_pages:
   - index.md
   - help.md
