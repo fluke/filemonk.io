@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Sell Digital Products with Filemonk
 url: '/'
 list_title: 'Help Center'
 layout: home
@@ -7,10 +7,10 @@ layout: home
 
 <div class="home-wrapper">
   <div class="home-wrapper-header">
-    <h1 class="page-heading">Recover lost sales with automatic back in stock email alerts.<br/></h1>
-    <p>Notify your customers automatically via email when products are restocked and boost revenue with Filemonk.</p>
+    <h1 class="page-heading">Sell digital products, send digital files and downloads.<br/></h1>
+    <p>Filemonk is a simple, easy-to-use app built from the ground up to sell any and all kinds of digital products, downloads and files - be it books, videos, tutorials, guides, software, music and much more. All you need to do is upload your files and attach it to a product! And Filemonk will take care of everything else.</p>
     <div class="store-badge-container">
-      <a href="https://apps.shopify.com/restock-rocket" class="store-badge-link">
+      <a href="https://apps.shopify.com/filemonk" class="store-badge-link">
         <img src="/assets/img/StoreBadge.png" class="store-badge-image" />
       </a>
     </div>
@@ -22,33 +22,53 @@ layout: home
 <div class="features-container">
   <div class="feature">
     <img src="/assets/img/KB1.png" class="feature-image" />
-    <h3 class="feature-title">Automatic Back in Stock Alerts</h3>
-    <p class="feature-description">Send email alerts automatically to all subscribed customers when their requested product is back in stock, and recover lost sales!</p>
+    <h3 class="feature-title">Easy setup</h3>
+    <p class="feature-description">Upload your files & attach them to a product or variant. That’s all you have to do to start selling with Filemonk!</p>
   </div>
   <div class="feature">
     <img src="/assets/img/KB2.png" class="feature-image" />
-    <h3 class="feature-title">Easy and Full Customization</h3>
-    <p class="feature-description">Design your own “Email me when available” button, sign-up form & email template to match your brand.</p>
+    <h3 class="feature-title">Delivered quick</h3>
+    <p class="feature-description">Your customers can access their files right after checkout and they'll get an email with the download link too.</p>
   </div>
   <div class="feature">
     <img src="/assets/img/KB3.png" class="feature-image" />
-    <h3 class="feature-title">Ready in 1 Minute</h3>
-    <p class="feature-description">Simply enable Filemonk & visit any out of stock product page! No coding required.</p>
+    <h3 class="feature-title">Make it yours</h3>
+    <p class="feature-description">Add your logo, select colors and customize the email template + order download page to make it yours!</p>
   </div>
 </div>
 <div class="testimonial">
-  <i>Install Filemonk, then sit back & relax while we work round the clock to help you recover lost sales.</i>
+  <i>Install Filemonk, then sit back & relax while we work round the clock to help you sell your digital products.</i>
 </div>
 <div class="content">
-  <p>According to IBM, retailers lose around $93 BILLION every year in sales due to out of stock products. We don’t want you to add to this statistic.<br/><br/>With Filemonk, allow your customers to subscribe to alerts for any out-of-stock product. When you restock, they will instantly receive an email alert informing them to make a purchase before stock runs out! Through beautifully designed “Email me when Available” buttons, sign-up forms and persuasive emails, we ensure that you recover lost sales and boost your revenue.<br/><br/> Let us help you convert stock-outs into opportunities for future sales -<br/>
-    <ul>
-      <li>Automatically send email alerts to subscribed customers as soon as a product comes back in stock</li>
-      <li>Design your own “Email me when Available” button, sign-up form & email template with live preview.</li>
-      <li>Ready to go in just 1 minute!</li>
-      <li>Supports almost all themes out of the box. No coding required.</li>
-      <li>Instant email delivery</li>
-      <li>24x7, professional support</li>
-      <li>Insightful reports to drive more sales!</li>
-    </ul>
+  <p>Sell any and all kinds of digital products & files seamlessly with Filemonk. Get started today in just 3 quick steps.
+Filemonk is a simple, easy-to-use app built from the ground up to sell any and all kinds of digital products, downloads and files - be it books, videos, tutorials, guides, software, music and much more. All you need to do is upload your files and attach it to a product! And Filemonk will take care of everything else.
+<br/>
+<br/>
+<b>Upload files</b>
+Select a product or variant, and upload your digital products for it! Filemonk supports multiple downloads/files for the same product/variant, and you can attach the same file to multiple products & variants too.
+<br/>
+<br/>
+<b>Instant file delivery</b>
+Your customers can access their files right after checkout & they’ll also receive an email with their download link soon after!
+<br/>
+<br/>
+<b>Simple, responsive Download page</b>
+Let your customers enjoy their content on the go anytime, anywhere with a mobile-ready Order Download page.
+<br/>
+<br/>
+<b>Make it yours</b>
+Customize the email template and download page to match your brand! Add your logo, change content and select colors that best fit your brand.
+<br/>
+<br/>
+<b>Limit downloads</b>
+Control how many times and until when your customers can access their files.
+<br/>
+<br/>
+<b>Stream video & audio</b>
+Provide your customers a great experience by using Filemonk’s built-in player to stream video & audio. Supports a wide range of file formats.
+<br/>
+<br/>
+<b>24x7 Support</b>
+Get 24x7 support from a dedicated team with years of experience in supporting merchants like you around the world.
   </p>
 </div>
