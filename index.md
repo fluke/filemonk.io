@@ -1,5 +1,5 @@
 ---
-title: Sell Digital Products with Filemonk
+title: Digital Downloads Shopify App
 url: '/'
 list_title: 'Help Center'
 layout: home
